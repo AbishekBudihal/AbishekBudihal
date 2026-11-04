@@ -18,12 +18,6 @@ The published testbenches reproduce **14 passing register-file checks** and **11
 
 [RTL](https://github.com/AbishekBudihal/AXI4-DMA-UVM-Verification-IP/blob/main/rtl/axi_lite_slave.v) · [Register-file testbench](https://github.com/AbishekBudihal/AXI4-DMA-UVM-Verification-IP/blob/main/UVM_tb) · [DMA design and tests](https://github.com/AbishekBudihal/AXI4-DMA-UVM-Verification-IP/tree/main/DMA_Front_End_Design)
 
-### [PrecisionDAC](https://github.com/AbishekBudihal/PrecisionDAC-High-Performance-Data-to-Analog-Conversion-Platform-XMEGA-DAC81408)
-
-Hardware and firmware work for an ATxmega128A1U-controlled DAC81408 analog-output platform. The repository contains register-level C routines for SPI/DAC configuration and UART setup, alongside a system schematic covering the serial interface and power supplies. The published firmware is a development snapshot.
-
-[Firmware](https://github.com/AbishekBudihal/PrecisionDAC-High-Performance-Data-to-Analog-Conversion-Platform-XMEGA-DAC81408/blob/main/firmware/main.c) · [Schematic](https://github.com/AbishekBudihal/PrecisionDAC-High-Performance-Data-to-Analog-Conversion-Platform-XMEGA-DAC81408/blob/main/hardware/schematic/DAC_Schematic.png)
-
 ### [SimStage — AV planning workspace](https://github.com/AbishekBudihal/SimStage_AVcustom_3D_simulator)
 
 A TypeScript application connecting room geometry, equipment placement, signal connections, and bill-of-materials data. Built around the AV design problems I work with: display visibility, equipment positioning, and system connectivity. Its viewing and acoustic calculations are planning estimates with documented assumptions.
