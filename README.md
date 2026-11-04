@@ -8,7 +8,7 @@ Previously, I worked on bare-metal firmware for ARM Cortex-M3 and AVR targets as
 
 [LinkedIn](https://www.linkedin.com/in/abishek-budihal) · [Portfolio](https://abishekbudihal.github.io/)
 
-## Selected engineering work
+## MY WORK
 
 ### [AXI4-Lite peripherals and DMA control](https://github.com/AbishekBudihal/AXI4-DMA-UVM-Verification-IP)
 
